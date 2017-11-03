@@ -1,0 +1,55 @@
+.rating {
+  font-size: 30px;
+  color:#fff;
+  padding: 5px 10px;
+  border-radius: 5px;
+  background: #333;
+}
+
+.jumbotron{
+  background-color: #fff;
+  padding-top: 0px;
+  padding-bottom: 20px;
+  padding-left: 30px !important;
+}
+
+.description{
+  font-size: 1.3em;
+}
+
+.thumbnail {
+  width:68%;
+}
+
+a.collapsed {
+  font-size: 1.1em;
+  line-height: 30px;
+}
+
+.bookslist {
+  border-radius: 10px;
+  padding:0px 30px 10px;
+}
+
+.bookslist h2 {
+  border-left: 6px solid #e95420;
+  padding-left: 10px;
+  line-height: 1.5em;
+  margin-bottom: 20px;
+}
+
+.panel-group .panel{
+  border-radius: 0 !important;
+  border:0;
+  box-shadow:0;
+  margin-bottom: -5px;
+}
+
+.box{
+  border-radius: 6px;
+  box-shadow: 0px 0px 1px 1px rgba(0, 0, 0, 0.3);
+}
+
+.btn {
+  margin-right: 5px;
+}
